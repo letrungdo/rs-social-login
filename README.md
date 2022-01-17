@@ -117,3 +117,5 @@ Do not forget to set the environment variables for the Client ID and Client Secr
 
 ISC
 
+## For more info login width Facebook
+- Ref: https://support.yeeflow.com/hc/en-us/articles/4404518932249-Configuring-Facebook-login-for-Yeeflow-Service-Portal
